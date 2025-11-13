@@ -1,2 +1,3 @@
-# .github
-FlasherPay central public repository
+# FlasherPay
+
+Group payments made simple
